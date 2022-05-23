@@ -1,0 +1,31 @@
+NOME SO;BASE;ORIGEM;ARQUITETURA;AMBIENTE DESKTOP(PADRÃO);STATUS;RANKING (POPULARIDADE);ACESSOS DIARIOS
+MX Linux;Debian;Grecia;multiarquitetura;XFCE;ativa;1;3103
+EndeavourOS;Arch;Holanda;multiarquitetura;XFCE;ativa;2;2928
+Linux Mint;Ubuntu;Irlanda;x86(64,32);Cinnamon;ativa;3;2294
+Manjaro Linux;Arch;decentralizada;multiarquitetura;XFCE;ativa;4;1840
+Pop OS;Ubuntu;Estados Unidos;multiarquitetura;GNOME;ativa;5;1473
+Ubuntu;Debian;Ilha de Man;multiarquitetura;GNOME;ativa;6;1363
+Debian;Independente;global;multiarquitetura;sem ambiente padrão;ativa;7;1134
+Garuda Linux;Arch;India;x86_64;sem ambiente padrão;ativa;8;1129
+Fedora;Independente;Estados Unidos;multiarquitetura;GNOME;ativa;9;1127
+Zorin OS;Ubuntu;Irlanda;x86_64;sem ambiente padrão;ativa;10;910
+Elementary OS;Ubuntu;Estados Unidos;x86_64;Pantheon;ativa;11;819
+OpenSUSE;Independente;Alemanha;multiarquitetura;sem ambiente padrão;ativa;12;797
+Linux Lite;Ubuntu;Nova Zelândia;x86_64;XFCE;ativa;13;657
+Slackware Linux;Independente;Estados Unidos;multiarquitetura;sem ambiente padrão;ativa;14;630
+KDE Neon;Ubuntu;Reino Unido;multiarquitetura;KDE;ativa;15;605
+Antix;Debian;Grego;multiarquitetura;sem ambiente padrão;ativa;16;582
+Kubuntu;Ubuntu;Ilha de Man;x86_64;KDE;ativa;17;480
+PCLinuxOS;Independente;Estados Unidos;x86_64;sem ambiente padrão;ativa;18;474
+Kali;Debian;Gibraltar;multiarquitetura;XFCE;ativa;19;471
+Solus;Independente;Irlanda;x86_64;Budgie;ativa;20;448
+FreeBSD;Independente;Estados Unidos;multiarquitetura;sem ambiente padrão;ativa;21;416
+Arcolinux;Arch;Bélgica;x86_64;sem ambiente padrão;ativa;22;411
+SparkyLinux;Debian;Pôlonia;multiarquitetura;LXDE;ativa;23;403
+LinuxFX;Ubuntu;Brasil;x86_64;KDE;ativa;24;385
+Super GRUB2;Independente;Espanha;x86(64,32);sem ambiente padrão;ativa;25;368
+Q4OS;Debian;Alemanha;multiarquitetura;Trinity;ativa;26;366
+Puppy Linux;Independente;Australia;x86(64,32);sem ambiente padrão;ativa;27;358
+Arch;Independente;Canadá;x86_64;sem ambiente padrão;ativa;28;342
+CentOS;Fedora;Estados Unidos;multiarquitetura;GNOME;ativa;29;342
+Alpine Linux;Independente;Noruega;multiarquitetura;XFCE;ativa;30;327
